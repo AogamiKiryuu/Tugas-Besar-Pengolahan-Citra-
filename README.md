@@ -8,7 +8,7 @@ Repositori ini berisi kode dan notebook untuk klasifikasi jenis daging (daging s
 - **Klasifikasi**: Random Forest Classifier
 - **Preprocessing**: 
   - Konversi Grayscale
-  - Histogram Equalization
+  - Brightness
   - Median Filter *(dapat dipilih satu)*
 
 ## 💻 Tools yang Digunakan
